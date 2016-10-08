@@ -1,11 +1,14 @@
 # ToC_Dijkstra-s-Algorithm
-![](https://github.com/DreamN/ToC_Dijkstra-s-Algorithm/blob/master/az_graph.PNG?raw=true)]
+![](https://github.com/DreamN/ToC_Dijkstra-s-Algorithm/blob/master/az_graph.PNG?raw=true)  
+
 dijkstra's algorithm for finding shortest paths between nodes using python and Graphviz (for graph visualization) this project is submitted to *Theory of Computation* subject CE, KMITL  
 ***for undirected graph**
 #### G.LSV
 Edit **G.LSV** if you want to change graph detail  
-Ex. if you have graph **'G'** that have nodes A, B, C, D node
+Ex. if you have graph **'G'** that have nodes A, B, C, D node   
+
 ![](https://github.com/DreamN/ToC_Dijkstra-s-Algorithm/blob/master/example_graph.PNG?raw=true)
+
 - p is connected to q with length 3
 - p is connected to r with length 8
 - p is connected to s with length 2
