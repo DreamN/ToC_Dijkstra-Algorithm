@@ -4,7 +4,7 @@
 dijkstra's algorithm for finding shortest paths between nodes using python and Graphviz (for graph visualization) this project is submitted to *Theory of Computation* subject CE, KMITL  
 ***for undirected graph**
 #### G.LSV
-Edit **G.LSV** if you want to change graph detail  
+Edit **G.LSV** if you want to change graph detail in adjacency matrix ('-' for unconnected)
 Ex. if you have graph **'G'** that have nodes A, B, C, D node   
 
 ![](https://github.com/DreamN/ToC_Dijkstra-s-Algorithm/blob/master/example_graph.PNG?raw=true)
