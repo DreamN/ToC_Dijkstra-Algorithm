@@ -1,4 +1,4 @@
-# ToC_Dijkstra-Algorithm
+# ToC Dijkstra's Algorithm
 ![](https://github.com/DreamN/ToC_Dijkstra-s-Algorithm/blob/master/az_graph.PNG?raw=true)  
 
 dijkstra's algorithm for finding shortest paths between nodes using python and Graphviz (for graph visualization) this project is submitted to *Theory of Computation* subject CE, KMITL  
